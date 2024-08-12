@@ -1,0 +1,490 @@
+/* Mobile: 767px */
+@media only screen and (max-width: 767px) {
+    .menu {
+        display: none;
+    }
+    .menu-icon a {
+        margin-right: 5%;
+    }
+    .menu-icon {
+        display: contents;
+    }
+    .banner-content-left h1 {
+        font-size: 36px;
+        line-height: 90px;
+        font-weight: 900;
+    }
+    .banner-content-left p {
+        padding-top: 0px;
+        padding-bottom: 10px;
+        width: 40%;
+        line-height: 2;
+    }
+    .banner-section {
+        margin-left: 10%;
+        margin-right: 10%;
+        display: block;
+    }
+    .logo {
+        margin-left: 10%;
+    }
+    .menu {
+        margin-right: 10%;
+    }
+    .workout h3 {
+        font-size: 30px;
+    }
+    .workout span {
+        font-size: 15px;
+    }
+    .vedio-info h3 {
+        font-size: 26px;
+    }
+    .vedio-info span {
+        font-size: 15px;
+    }
+    .vedio-info {
+        width: 30%;
+        left: 20%;
+        top: 43%;
+    }
+    .hero img {
+        width: 353px;
+        height: 588px;
+    }
+    .workout {
+        width: 31%;
+        top: 5%;
+        right: 15%;
+    }
+    .btn-primary {
+        padding: 15px 0px;
+    }
+    .btn-primary-2 {
+        padding: 15px 0px;
+    }
+    .workout {
+        width: 36%;
+        top: 8%;
+        right: 10%;
+    }
+    .vedio-info {
+        width: 36%;
+        left: 10%;
+        top: 60%;
+    }
+    .hero {
+        margin-left: 140px;
+    }
+    .vedio-info h3 {
+        font-size: 35px;
+    }
+    .heading-content h2 {
+        font-size: 32px;
+    }
+    .exercise-types {
+        display: block;
+    }
+    .exercise {
+        padding-bottom: 50px;
+    }.run {
+        padding-top: 40px;
+    }
+    .run-section {
+        display: grid;
+        text-align: justify;
+        padding-bottom: 50px;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+    .run-content h2 {
+        font-size: 32px;
+    }
+    .run-content {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .run-img img {
+        width: 400px;
+        height: 200px;
+    }
+    .run-img {
+        padding-right: 0;
+    }
+    .run-content p {
+        font-size: 14px;
+    }
+    .heading-content-2 {
+        padding-top: 0px;
+        margin-left: 22%;
+        margin-right: 33%;
+    }
+    .heading-content-2 h2 {
+        font-size: 32px;
+    }
+    .heading-content-2 p {
+        font-size: 14px;
+    }
+    .traning-section {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .exercise-1 img {
+        width: 175px;
+        height: 100%;
+    }
+    .exercise-2 img {
+        width: 259px;
+        height: 100%;
+    }
+    .exercise-3 img {
+        display: none;
+    }
+    .exercise-3 span {
+        display: none;
+    }
+    .exercise-4 img {
+        width: 224px;
+        height: 100%;
+    }
+    .exercise-5 img {
+        width: 210px;
+        height: 100%;
+    }
+    .exercise-6 img {
+        display: none;
+    }
+    .exercise-6 span {
+        display: none;
+    }
+    .group-exercise {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .bmi-calculator {
+        display: block;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .bmi {
+        padding-top: 30px;
+    }
+    .bmi-cart {
+        width: 100%;
+        padding-bottom: 40px;
+        margin-left: 20%;
+    }
+    .bmi-form {
+        width: 100%;
+        margin-left: 20%;
+    }
+    .bmi-form p {
+        line-height: 2;
+        width: 50%;
+    }
+    input {
+        width: 32%;
+        font-size: 16px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+        padding-left: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-right: 10px;
+    }
+    select {
+        width: 32%;
+        font-size: 16px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+        padding-left: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-right: 10px;
+    }
+    select:last-child {
+        width: 67%;
+    }
+    .price-plans {
+        display: block;
+    }
+    ul.price-plan {
+        width: 50%;
+        margin-bottom: 35px;
+        margin-left: 25%;
+    }
+    .heading-content p {
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 14px;
+    }
+    .btn-primary-3 {
+        padding: 16px 30px;
+    }
+    .author:nth-child(1){
+        display: none;
+    }
+    .author:nth-child(4){
+        display: none;
+    }
+    .author {
+        position: relative;
+        width: 50%;
+        left: 5%;
+    }
+    .team-member {
+        display: block;
+    }
+    .team-section {
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+    .author img {
+        height: 272px;
+        width: 272px;
+    }
+    .author-info h5 {
+        font-size: 20px;;
+    }
+    .author-info {
+        left: 25px;
+    }
+    .footer {
+        display: block;
+    }
+    .Service-info h4 {
+        padding-bottom: 3%;
+        font-size: 30px;
+    }
+    .Service-info ul li a {
+        font-size: 21px;
+    }
+    .finess-info h4 {
+        padding-bottom: 3%;
+        font-size: 30px;
+    }
+    .Service-info ul {
+        padding-bottom: 15px;
+    }
+    .Service-info {
+        padding-top: 20px;
+    }
+    .copy-right {
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+    .finess-info ul li a {
+        font-size: 21px;
+    }
+
+}
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .banner-content-left h1 {
+        font-size: 70px;
+        line-height: 90px;
+    }
+    .banner-section {
+        margin-left: 10%;
+        margin-right: 10%;
+        display: block;
+    }
+    .logo {
+        margin-left: 5%;
+    }
+    .menu {
+        margin-right: 5%;
+    }
+    .btn-primary {
+        margin-right: 10px;
+    }
+    .workout {
+        width: 36%;
+        top: 8%;
+        right: 10%;
+    }
+    .vedio-info {
+        width: 36%;
+        left: 10%;
+        top: 60%;
+    }
+    .hero {
+        margin-left: 140px;
+    }
+    .vedio-info h3 {
+        font-size: 35px;
+        font-weight: 700;
+    }
+    .heading-content h2 {
+        font-size: 40px;
+    }
+    .exercise-types {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .exercise {
+        padding-bottom: 50px;
+    }.run {
+        padding-top: 40px;
+    }
+    .run-section {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .run-content h2 {
+        font-size: 35px;
+    }
+    .run-content {
+        padding-left: 50px;
+    }
+    .run-img img {
+        width: 256px;
+        height: 319px;
+    }
+    .run-img {
+        padding-right: 50px;
+    }
+    .run-content p {
+        font-size: 14px;
+    }
+    .run-content {
+        margin-right: 15%;
+    }
+    .btn-primary {
+        padding: 16px 30px;
+    }
+    .heading-content-2 {
+        padding-top: 0px;
+        margin-left: 5%;
+    }
+    .heading-content-2 h2 {
+        font-size: 40px;
+    }
+    .heading-content-2 p {
+        font-size: 14px;
+    }
+    .traning-section {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .exercise-1 img {
+        width: 214px;
+        height: 100%;
+    }
+    .exercise-2 img {
+        width: 259px;
+        height: 100%;
+    }
+    .exercise-3 img {
+        width: 211px;
+        height: 100%;
+    }
+    .exercise-4 img {
+        width: 276px;
+        height: 100%;
+    }
+    .exercise-5 img {
+        width: 210px;
+        height: 100%;
+    }
+    .exercise-6 img {
+        width: 198px;
+        height: 100%;
+    }
+    .bmi-calculator {
+        display: block;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .bmi {
+        padding-top: 30px;
+    }
+    .bmi-cart {
+        width: 80%;
+        padding-bottom: 40px;
+    }
+    .bmi-form {
+        width: 100%;
+    }
+    .bmi-form p {
+        line-height: 2;
+    }
+    input {
+        width: 48%;
+        font-size: 18px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+        padding-left: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-right: 10px;
+    }
+    select {
+        width: 48%;
+        font-size: 18px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+        padding-left: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-right: 10px;
+    }
+    select:last-child {
+        width: 99%;
+    }
+    .btn-primary-3 {
+        padding: 16px 30px;
+    }
+    .author img {
+        height: 272px;
+    }
+    .author-info h5 {
+        font-size: 16px;;
+    }
+    .author-info {
+        left: 25px;
+    }
+    .footer {
+        margin-left: 5%;
+        margin-right: 5%;
+        display: block;
+    }
+    .footer-heading h1 {
+        font-size: 50px;
+    }
+    .footer-block {
+        display: flex;
+        gap: 150px;
+        padding-top: 40px;
+    }
+    .Service-info h4 {
+        padding-bottom: 3%;
+        font-size: 30px;
+    }
+    .Service-info ul li a {
+        font-size: 21px;
+    }
+    .finess-info h4 {
+        padding-bottom: 3%;
+        font-size: 30px;
+    }
+    .Service-info ul {
+        padding-bottom: 15px;
+    }
+    .Service-info {
+        padding-top: 20px;
+    }
+    .copy-right {
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+    .finess-info ul li a {
+        font-size: 21px;
+    }
+
+}
+
